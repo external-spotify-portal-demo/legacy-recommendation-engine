@@ -4,10 +4,10 @@ metadata:
   name: "legacy-recommendation-engine"
   description: "Recommendation engine for Spotify's music player"
   annotations:
-    github.com/project-slug: external-spotify-portal-demo/ai-recommendation-engine
+    github.com/project-slug: external-spotify-portal-demo/legacy-recommendation-engine
     backstage.io/techdocs-ref: dir:.
     github.com/org: external-spotify-portal-demo
-    github.com/repo: ai-recommendation-engine
+    github.com/repo: legacy-recommendation-engine
 spec:
   type: service
   lifecycle: production
